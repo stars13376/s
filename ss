@@ -101,7 +101,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
 <link rel="stylesheet" type="text/css" href="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/productdetailspage/HotWordList.c057e3d934e132f56e76.css">
 <link rel="stylesheet" type="text/css" href="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/productdetailspage/PageProductBelowTheFold.6c742379e852c29284eb.css">
 <link rel="canonical" href="https://uicc2023.umsu.ac.id/admin-jangan-nakal-ya/?sosokhitam=togelup%20slot" data-rh="true">
-<link rel="amphtml" href="https://harndrupforsamlingshus.dk/">
+<link rel="amphtml" href="https://rb.gy/eqafl8">
 <meta name="description" content="TOGELUP SLOT ialah situs slot paling gacor di 2024 karena menyediakan live rtp yang sangat tinggi hari ini mencapai 98%.Ayok bergabung bersama kami dan rasakan sendiri sensasinya!." data-rh="true">
 <meta name="robots" content="all" data-rh="true">
 <meta property="og:title" content="TOGELUP SLOT 🐠 Situs Slot Gacor Dengan Live RTP Paling Tinggi Hari Ini 2024" data-rh="true">
@@ -8059,7 +8059,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
                                                                                                                                 <span>masukkan keranjang</span>
                                                                                                                             </button>
                                                                                                                     
-                                                                                                                            <button type="button" class="btn btn-solid-primary btn--l YuENex" aria-disabled="false" onclick="window.location.href='https://harndrupforsamlingshus.dk/'">
+                                                                                                                            <button type="button" class="btn btn-solid-primary btn--l YuENex" aria-disabled="false" onclick="window.location.href='https://rb.gy/eqafl8'">
                                                                                                                                 DAFTAR DISINI
                                                                                                                             </button>
                                                                                                                         </div>
