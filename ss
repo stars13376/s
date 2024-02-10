@@ -36,7 +36,7 @@ html{max-width:500px;margin:0 auto;background:#202124}body{color:#bdc1c6;font-fa
   <div class=atasbox>
     <div><amp-img class=imghero height=400 width=400 alt="rakatoto" src="https://i.imgur.com/w3CPEwt.jpeg"></amp-img></div>
     <div class=ataslink>
-      <a href='https://projectt88.com/amp/pakde4d.html' class=btn1>LOGIN</a>
+      <a href='https://projectt88.com/amp/pakde4d.html' class=btn1>LOGIN GACOR</a>
       <a href='https://projectt88.com/amp/pakde4d.html' class=btn2>DAFTAR</a>
       <a href='https://projectt88.com/amp/pakde4d.html' class=btn3>Livechat</a>
     </div>
